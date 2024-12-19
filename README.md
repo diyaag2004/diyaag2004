@@ -1,12 +1,12 @@
 # Hi there! 👋
-I'm Diya Agrawal, a passionate 2nd Year B.Tech student at the esteemed National Institute of Technology Patna!
+I'm Diya Agrawal, a passionate 3rd Year B.Tech student at the esteemed National Institute of Technology Patna!
 
 ## Coding Journey 🌟
 My journey in coding commenced with a spark of curiosity and a profound love for problem-solving. I thrive on transforming challenges into innovative solutions, finding immense satisfaction in seeing my code come to life. ✨
 
 ## Skills & Tech Stack 🛠
 - **Web Development 🌐**
-  - Frontend: HTML, CSS, JavaScript, React.js
+  - Frontend: HTML, CSS, JavaScript, React.js,Next js
 - **Design Tools 🎨**
   - Proficient in Figma for creating visually appealing designs
 - **Problem Solving 🤔💡**
