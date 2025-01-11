@@ -1,6 +1,27 @@
-# 💫 About Me:
+## 👋🏻 Greetings, fellow coder! 
 
-Hi, I'm Diya Agrawal, a 3rd Year B.Tech student at NIT Patna! 🚀<br><br>I’m passionate about coding and problem-solving, with a strong foundation in data structures and algorithms. I specialize in web development using HTML, CSS, JavaScript, React.js, and Next.js. I also enjoy designing with Figma.<br><br>Let’s connect and collaborate on exciting projects! 😊<br><br><br>Pronouns: She/Her ⚡ Fun fact: I believe in working smart, not just hard!
+## 💫 About Me:
+I’m Diya Agrawal 👋, 3rd-year Computer Science student at NIT Patna. 💻✨<br>
+I turn caffeine into code ☕ and bugs into ‘features’ 🐛—because who needs a bug-free world when you can make things “better,” right?😎 <br>
+When I’m not wrestling with algorithms 🧠 or crafting cool web projects 🌐, you’ll find me daydreaming about debugging life itself (it’s a full-time job).
+
+### ***Fun fact***:
+*I once spent hours debugging, only to realize the issue was a missing semicolon. Don’t worry, I’m still recovering. 😅*
+
+### *My expertise*:
+- ***Web Development*** 🌍
+- ***Data Structures & Algorithms (the deeper, the better! 💻)***
+
+*But when I’m not coding, you’ll find me*:
+- ***Listening to music*** 🎧🎶
+- ***Cooking up new recipes*** 🍳🍴
+- ***Designing something creative*** 🎨🖌️
+
+*I’m always looking for ways to bring both tech and creativity together in everything I do.*
+
+*Let’s connect, collaborate, and—most importantly—**double-check those semicolons** before the chaos begins. 😄*
+
+<strong>Pronouns:</strong> She/Her ⚡
 
 ## 🌐 Socials:
 
@@ -18,7 +39,7 @@ Hi, I'm Diya Agrawal, a 3rd Year B.Tech student at NIT Patna! 🚀<br><br>I’m 
 
 # Database:
 
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) !
+![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
 
 # Others:
 
@@ -33,6 +54,8 @@ Hi, I'm Diya Agrawal, a 3rd Year B.Tech student at NIT Patna! 🚀<br><br>I’m 
 ## 🏆 GitHub Trophies
 
 ![](https://github-profile-trophy.vercel.app/?username=diyaag2004&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
+
+![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ### 🔝 Top Contributed Repo
 
