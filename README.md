@@ -55,7 +55,7 @@ When I’m not wrestling with algorithms 🧠 or crafting cool web projects 🌐
 
 ![](https://github-profile-trophy.vercel.app/?username=diyaag2004&theme=transparent&no-frame=true&no-bg=true&margin-w=4)
 
-![Totals Hits](https://komarev.com/ghpvc/?username=SP-XD&style=flat&color=orange&label=PROFILE+VIEWS)
+![Totals Hits](https://komarev.com/ghpvc/?username=diyaag2004&style=flat&color=orange&label=PROFILE+VIEWS)
 
 ### 🔝 Top Contributed Repo
 
