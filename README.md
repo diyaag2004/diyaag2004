@@ -1,7 +1,7 @@
 ## 👋🏻 Greetings, fellow coder! 
 
 ## 💫 About Me:
-I’m Diya Agrawal 👋, 3rd-year Computer Science student at NIT Patna. 💻✨<br>
+I’m Diya Agrawal 👋, final year Computer Science student at NIT Patna. 💻✨<br>
 I turn caffeine into code ☕ and bugs into ‘features’ 🐛—because who needs a bug-free world when you can make things “better,” right?😎 <br>
 When I’m not wrestling with algorithms 🧠 or crafting cool web projects 🌐, you’ll find me daydreaming about debugging life itself (it’s a full-time job).
 
